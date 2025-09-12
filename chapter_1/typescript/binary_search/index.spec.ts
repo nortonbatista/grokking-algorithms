@@ -1,4 +1,4 @@
-import { binarySearch } from './binary_search'
+import { binarySearch } from '.'
 
 describe("#binarySearch", () => {
   describe("when the array is empty", () => {

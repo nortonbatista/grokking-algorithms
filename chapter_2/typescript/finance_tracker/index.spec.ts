@@ -1,4 +1,4 @@
-import { FinanceTracker } from './finance_tracker'
+import { FinanceTracker } from '.'
 
 describe("new FinanceTracker()", () => {
   describe("initial state of the list", () => {
